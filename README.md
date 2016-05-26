@@ -13,17 +13,17 @@ This Infrastructure is based on solving the basic needs for data flow at the bac
 
 
 ## Components 
-    - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
-          Elasticsearch is a search server based on Lucene. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java and is released as open source under the terms of the Apache License
-          
-          ## [More Elasticsearch](https://github.com/elastic/elasticsearch)
-          
-    - [HDFS](hortonworks.com/apache/hdfs/) 
-          HDFS is a Java-based file system that provides scalable and reliable data storage, and it was designed to span large clusters of commodity servers. HDFS has demonstrated production scalability of up to 200 PB of storage and a single cluster of 4500 servers, supporting close to a billion files and blocks.
-          
-          ## [Mirror](https://github.com/apache/hadoop-hdfs)
-          
-    - Kafka 
+ - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
+     Elasticsearch is a search server based on Lucene. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java and is released as open source under the terms of the Apache License
+
+   - [More Elasticsearch](https://github.com/elastic/elasticsearch)
+
+- [HDFS](hortonworks.com/apache/hdfs/) 
+  HDFS is a Java-based file system that provides scalable and reliable data storage, and it was designed to span large clusters of commodity servers. HDFS has demonstrated production scalability of up to 200 PB of storage and a single cluster of 4500 servers, supporting close to a billion files and blocks.
+    
+   - [Mirror](https://github.com/apache/hadoop-hdfs)
+   
+- Kafka 
 
 ## Installation
 
